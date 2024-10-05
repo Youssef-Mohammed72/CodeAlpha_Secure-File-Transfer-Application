@@ -24,7 +24,7 @@ To use this Secure File Transfer Application:
 1. Start the server:
            `python server.py`
 2. Run the client script:
-           `python -m streamlit client.py`
+           `python -m streamlit run client.py`
 3. Follow the prompts to perform various operations:
    - Login to authenticate
    - View available files on the server
